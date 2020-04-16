@@ -34,4 +34,5 @@ function convertNumber(num) {
 }
 
 
-console.log(convertNumber(100));
+convertNumber(100);
+convertNumber(67);
